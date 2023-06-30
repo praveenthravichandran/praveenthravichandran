@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenthravichandran&label=Profile%20views&color=0e75b6&style=flat" alt="praveenthravichandran" /> </p>
 
-- 🌱 I’m currently working on **Html, Css, Javascript, java, mysql**
+- 🌱 I’m currently working on **HTML, CSS, JAVASCRIPT, JAVA, MYSQL**
 
 - 👨‍💻 All of my projects are available at [https://praveenthravichandran.github.io/Portfolio/](https://praveenthravichandran.github.io/Portfolio/)
 
